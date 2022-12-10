@@ -4,4 +4,4 @@ In this notebook, I  used data extracted from Twitter regarding the currency dem
 
 After creating a target variable by the sentiment analysis, I  trained classfication model using the labeled data.
 
-The source of data is kaggle, and I have already uploaded the dataset to the github
+The source of data is kaggle, and I have already uploaded the dataset to this repository. 
